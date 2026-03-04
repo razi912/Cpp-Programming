@@ -1,3 +1,5 @@
+//Take two integers as input and print: their sum, difference, product, quotient
+
 #include<iostream>
 using namespace std;
 int main(){
